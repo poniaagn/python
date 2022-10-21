@@ -1,0 +1,37 @@
+https://replit.com/
+https://www.python.org/
+https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
+https://www.anaconda.com/
+https://colab.research.google.com/
+proxy=http://126.179.0.206:9090
+https://github.com/
+https://numpy.org/
+https://pypi.org/ - zbiór bibliotek w python
+https://github.com/dev-com2020/orange3/tree/master/orange3  -- skrypty ktore w trakcie szkolenia
+Tomasz.kaniecki@comarch.pl
+https://drive.google.com/drive/folders/1hvflMaBEAHmhbdi3-f_BAJENdU5hLKu2?usp=sharing ---tu material prezentacja
+biblioteka colorama do kolorowania
+https://pypi.org/project/colorama/
+https://docs.python.org/3.8/library/exceptions.html#Exception
+https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html -- pliki przykladowe z csv
+https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html
+https://jsoncrack.com/editor
+kaggle przykładowe bazy
+dbbrowser for sql 
+tkinter moduł aplikacji okienkowych
+fLASK/DJANGO FRAMEWORK DLA APLIKACJI WWW
+https://www.sqlalchemy.org/
+https://www.erp.comarch.pl/Szkolenia/Ankiety/survey/2QHHU5
+
+
+
+
+
+
+
+
+
+
+
+
+
